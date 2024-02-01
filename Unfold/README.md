@@ -11,7 +11,7 @@ Exemple, selecting the root folders of this tree: \
 \Folder3\\ \
 --\File4.txt \
 
-will create a new folder:
+will create a new folder: \
 \@Unfold\\ \
 --\File1.txt \
 --\File2.txt \
