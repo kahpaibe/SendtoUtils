@@ -3,8 +3,7 @@ A small utility to create several files or folders with a given name scheme.
 
 usage: 
     bulkcreate.py \[root\]
-    
-     root (optional)   path to create objects in
+    root (optional)   path to create objects in
 Options:    
     - select whether to create files or folders
     - select naming mode ([regexp,list])
