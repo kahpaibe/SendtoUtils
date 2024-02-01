@@ -12,7 +12,7 @@ Exemple, selecting the root folders of this tree: \
 --\File4.txt \
 
 will create a new folder: \
-\@Unfold\\ \
+\\@Unfold\\ \
 --\File1.txt \
 --\File2.txt \
 --\File4.txt \
