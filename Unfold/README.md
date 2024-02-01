@@ -1,7 +1,7 @@
 # Unfold.bat
 "Unfold" the content of every selected folder to a common folder.
 
-Exemple, selecting the root folders of this tree:
+Exemple, selecting the root folders of this tree: \
  \Folder1\
           \File1.txt
  \Folder2\
