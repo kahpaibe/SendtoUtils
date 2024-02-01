@@ -7,14 +7,16 @@ Exemple, selecting the root folders of this tree: \
 \Folder2\\ \
 --\subfolder2\\ \
 -----\File3.txt \
------\File2.txt \
+-----\File4.txt \
 \Folder3\\ \
---\File4.txt \
+--\File5.txt \
 
 will create a new folder: \
 \\@Unfold\\ \
+--\subfolder2\\ \
+-----\File3.txt \
+-----\File4.txt \
 --\File1.txt \
 --\File2.txt \
 --\File4.txt \
---\subfolder2\\ \
------\File3.txt \
+--\File5.txt \
